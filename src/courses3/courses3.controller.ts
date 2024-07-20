@@ -5,6 +5,6 @@ export class Courses3Controller {
     @Get()
 
     FindAll () { 
-        return 'Listagem de cursos'
+        return 'Listagem de curso'
 }
 }
